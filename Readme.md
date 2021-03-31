@@ -1,8 +1,8 @@
 # Introduction
 
+This is a simple example of an inter-service call.
 
-
-``greeting-service` will call the `/hello` interface of `hello-service` and return the result of the call to the user interface.
+`greeting-service` will call the `/hello` interface of `hello-service` and return the result of the call to the user interface.
 
 
 
